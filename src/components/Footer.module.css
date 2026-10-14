@@ -1,0 +1,26 @@
+.footer_contaner{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:20px;
+    padding-block:20px;
+    background-color:#ffffff;
+}
+.social_links_box{
+    display:flex;
+    gap:30px;
+}
+.social_link a{
+     display:flex;
+    align-items:center;
+    justify-content:center;
+    text-decoration:none;
+    color:#110f0fe4;
+    font-size:1.5rem;
+    font-weight:600;
+}
+.copyrgiht_info{
+    font-size:1.2rem;
+    text-transform:capitalize;
+    color:#131210e6;
+}
